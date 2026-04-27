@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "7nz_mn",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "7nz_mn",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "Newoscrias074.aternos.me",
+    "port": 28528,
     "version": "",
     "try-creative": false
   },
@@ -31,8 +31,8 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
+        "Salve tropa! aqui e o bot 24/7",
+        "Já esta no nosso discord? se não entre!",
         "I like to play Minecraft!"
       ]
     },
@@ -60,7 +60,7 @@
   "modules": {
     "avoidMobs": true,
     "combat": true,
-    "beds": false,
+    "beds": true,
     "chat": true,
     "console-commands": true
   },
@@ -69,7 +69,7 @@
     "auto-eat": true
   },
   "beds": {
-    "pick-up-day": false,
+    "pick-up-day": true,
     "place-night": false
   },
   "discord": {
